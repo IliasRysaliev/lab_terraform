@@ -1,4 +1,4 @@
-# lab_terrraform
+# lab_terraform
 
 Terrafrom lab: 
 1)  Store state file on S3  
