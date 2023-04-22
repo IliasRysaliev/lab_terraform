@@ -9,3 +9,5 @@ Terrafrom lab:
 5)  Deploy and attach internet Gateway to subnets 
 6)  Deploy 2 EC2 (Amazon Linux2/Ubuntu) on each subnet for the Ansible topic 
 below.
+
+7. new changes for git hub
