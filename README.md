@@ -10,4 +10,3 @@ Terrafrom lab:
 6)  Deploy 2 EC2 (Amazon Linux2/Ubuntu) on each subnet for the Ansible topic 
 below.
 
-7. new changes for git hub
